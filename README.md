@@ -9,7 +9,6 @@ A project aimed at monitoring and improving mental fitness using data analysis a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -44,9 +43,7 @@ Mental Fitness Tracker is a project developed to help individuals monitor their 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you would like to see.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, please contact:
 - **TechDudeSid**: [GitHub Profile](https://github.com/TechDudeSid)
+- **Email**: [siddhusiva2003@gmail.com](mailto:siddhusiva2003@gmail.com)
